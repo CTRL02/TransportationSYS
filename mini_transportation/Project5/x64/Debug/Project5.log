@@ -1,0 +1,72 @@
+﻿  MyForm.cpp
+D:\mini_transportation\Project5\Graph.h(170,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(170,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(170,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(170,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(174,127): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(174,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(192,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(192,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(193,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(193,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(199,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(199,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(273,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(273,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(273,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(273,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(277,127): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(277,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(301,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(301,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(302,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(302,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(308,131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(308,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(309,131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(309,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(316,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(316,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(514,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(514,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(514,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(514,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(518,127): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(518,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(535,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(535,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(536,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(536,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(542,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(542,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(682,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(682,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(682,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(682,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(686,127): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(686,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(710,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(710,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(711,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(711,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(717,131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(717,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(718,131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(718,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(725,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mini_transportation\Project5\Graph.h(725,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\utility(200,61): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+D:\mini_transportation\Project5\Graph.h(145,1): message : see reference to function template instantiation 'std::pair<std::string,int>::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,__int64,0>(std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,__int64> &&) noexcept' being compiled
+D:\mini_transportation\Project5\Graph.h(145,35): message : see reference to function template instantiation 'std::pair<std::string,int>::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,__int64,0>(std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,__int64> &&) noexcept' being compiled
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project5.vcxproj -> D:\mini_transportation\x64\Debug\Project5.exe

@@ -1,0 +1,6 @@
+ashar: the_?fifth_setlment 50 
+the_?fifth_setlment: ashar 50 
+a: b 50 c 50 
+b: a 50 
+c: a 50 d 50 
+d: c 50 
