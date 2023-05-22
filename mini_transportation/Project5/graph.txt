@@ -1,2 +1,0 @@
-asher: madenty 10 
-madenty: asher 10 
